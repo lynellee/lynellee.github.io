@@ -47,7 +47,7 @@ A conversational mock interview bot powered by OpenAI GPT. Simulates job intervi
 ---
 
 ## 📫 Contact
-- GitHub: [your-username](https://github.com/lynellee)
+- GitHub: [lynellee](https://github.com/lynellee)
 
 ---
 
