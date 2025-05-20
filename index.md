@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lynelle.
 
-I'm an aspiring **AI/ML engineer** with a background in [your field or interest area]. I focus on building practical, human-centered AI tools using NLP, Python, and LLMs. This site showcases my learning journey and hands-on projects.
+I'm an aspiring **AI/ML engineer** with a background in business development. I focus on building practical, human-centered AI tools using NLP, Python, and LLMs. This site showcases my learning journey and hands-on projects.
 
 ---
 
